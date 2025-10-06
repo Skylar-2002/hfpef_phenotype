@@ -1,10 +1,8 @@
 streamlit==1.50.0
 pandas==2.3.3
-numpy==2.0.1
+numpy==1.24.3
 joblib==1.5.2
 scikit-learn==1.6.1
-tabpfn==2.2.1
-tabpfn-common-utils==0.2.1
-tabpfn-extensions==0.1.5
+tabpfn==0.1.11
 torch==2.8.0
 scipy==1.16.2
